@@ -8,6 +8,7 @@ import java.util.List;
 
 public class PlayWithStacks {
 
+    /*
     public static void main(String[] args) {
         Stack<String> s = new ArrayListStack<String>();
         Stack<String> s2 = new LLStack<String>();
@@ -31,6 +32,6 @@ public class PlayWithStacks {
         System.out.println(s.size());
         String out = s.pop();
     }
-
+    */
 }
 
