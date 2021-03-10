@@ -1,5 +1,3 @@
-package command1;
-
 public class TurnOffCommand implements Command {
 
 	Light light; // this is the receiver

@@ -1,5 +1,3 @@
-package command1;
-
 public class TurnOnCommand implements Command {
 
 	Light light;

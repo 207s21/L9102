@@ -1,5 +1,3 @@
-package command1;
-
 public class RemoteControl {
 
 	private Command currentCmd;
